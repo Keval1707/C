@@ -29,38 +29,38 @@ These are common programming functions that perform various tasks such as calcul
 #### DigitSumReducedToOne :
  This function recursively calculates the sum of the digits of a given number until a single digit number is obtained. This final single digit is returned as the output.
 
-#### factorial :
+#### Factorial :
  This function calculates the factorial of a given number. The factorial of a number is the product of all positive integers up to and including that number.
 
 #### Fibonacci_Series :
  This function generates a Fibonacci sequence up to a given limit. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones.
 
-#### palidrome_number :
+#### Palidrome_number :
  This function checks whether a given number is a palindrome or not. A palindrome number is a number that remains the same when its digits are reversed.
 
-#### prime_number :
+#### Prime_number :
  This function checks whether a given number is a prime number or not. A prime number is a number that is only divisible by 1 and itself.
 
-#### recursive :
+#### Recursive :
  This function is a simple example of a recursive function. It calls itself repeatedly until a base case is reached and then returns the final result.
 
 #### Result_with_if_else_leader :
  This function returns the result of a simple arithmetic operation using if-else conditions.
 
-#### reverse_number :
+#### Reverse_number :
  This function reverses a given number. It can be used to reverse the digits of a number.
 
 #### Sum_of_array :
  This function calculates the sum of all elements in an array.
 
-#### sum_of_digits :
+#### Sum_of_digits :
  This function calculates the sum of the digits of a given number.
 
-#### swap_two_number :
+#### Swap_two_number :
  This function swaps the values of two given variables.
 
-#### without use main :
+#### Without use main :
  This function is an alternative way to run C code without using the traditional main function. It uses a preprocessor directive to define a custom entry point for the program.
 
-#### without use semicolon :
+#### Without use semicolon :
  This function demonstrates that C statements can be separated using other characters besides semicolons. It uses line breaks and the comma operator to separate statements
